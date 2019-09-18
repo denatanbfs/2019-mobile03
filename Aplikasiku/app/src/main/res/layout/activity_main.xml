@@ -15,14 +15,14 @@
 		app:layout_constraintStart_toStartOf="parent"
 		app:layout_constraintTop_toTopOf="parent" />
 
-	<ImageView
-		android:id="@+id/imageView"
-		android:layout_width="241dp"
-		android:layout_height="148dp"
-		android:layout_marginTop="288dp"
-		android:layout_marginEnd="84dp"
-		app:layout_constraintEnd_toEndOf="parent"
-		app:layout_constraintTop_toTopOf="parent"
-		app:srcCompat="@drawable/apaini" />
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="241dp"
+        android:layout_height="148dp"
+        android:layout_marginTop="352dp"
+        android:layout_marginEnd="84dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/apaini" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
